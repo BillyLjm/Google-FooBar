@@ -1,0 +1,73 @@
+Submitting solution...
+
+Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny Planet! But there's one small problem: the LAMBCHOP was a wool-y important part of the space station, and when you blew it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the bunny workers and escape before the entire thing explodes?
+
+Submission: SUCCESSFUL. Completed in: 13 hrs, 41 mins, 31 secs.
+
+Level 3 complete
+You are now on level 4
+Challenges left to complete level: 2
+
+Level 1: 100% [==========================================]
+Level 2: 100% [==========================================]
+Level 3: 100% [==========================================]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=AbcdE" (Unused)
+
+Type request to request a new challenge now, or come back later.
+
+The code is strong with this one...
+You can now share your solutions with a Google recruiter!
+If you opt in, Google Staffing may reach out to you regarding career opportunities, events, and programs.
+We will use your information in accordance with our Applicant and Candidate Privacy Policy.
+
+[#1] [Yes [N]o [A]sk me later:]
+
+[Y]es [N]o [A]sk me later: y
+
+Please tell us a bit about yourself to help us connect you with the right recruiter. By answering these questions you agree to our Application and Candidate Privacy Policy
+
+[#2] First name:Billy
+
+[#3] Last name:Lim
+
+[#4] Email:billy.ljm@gmail.com
+
+Use tab key twice to see list of available country/region choices.
+
+[#5] Country/Region:
+
+Afghanistan    Åland Islands    Albania    Algeria    American Samoa    Andorra    Angola    Anguilla    Antarctica    Antigua & Barbuda    Argentina    Armenia    Aruba    Australia    Austria    Azerbaijan    Bahamas    Bahrain    Bangladesh    Barbados    Belarus    Belgium    Belize    Benin    Bermuda    Bhutan    Bolivia    Bosnia & Herzegovina    Botswana    Bouvet Island    Brazil    British Indian Ocean Territory    British Virgin Islands    Brunei    Bulgaria    Burkina Faso    Burundi    Cambodia    Cameroon    Canada    Cape Verde    Caribbean Netherlands    Cayman Islands    Central African Republic    Chad    Chile    China    Christmas Island    Cocos (Keeling) Islands    Colombia    Comoros    Congo (DRC)    Congo (Republic)    Cook Islands    Costa Rica    Côte d’Ivoire    Croatia    Cuba    Curaçao    Cyprus    Czech Republic    Denmark    Djibouti    Dominica    Dominican Republic    Ecuador    Egypt    El Salvador    Equatorial Guinea    Eritrea    Estonia    Ethiopia    Falkland Islands (Islas Malvinas)    Faroe Islands    Fiji    Finland    France    French Guiana    French Polynesia    French Southern Territories    Gabon    Gambia    Georgia    Germany    Ghana    Gibraltar    Greece    Greenland    Grenada    Guadeloupe    Guam    Guatemala    Guernsey    Guinea    Guinea-Bissau    Guyana    Haiti    Heard & McDonald Islands    Honduras    Hong Kong    Hungary    Iceland    India    Indonesia    Iran    Iraq    Ireland    Isle of Man    Israel    Italy    Jamaica    Japan    Jersey    Jordan    Kazakhstan    Kenya    Kiribati    Kuwait    Kyrgyzstan    Laos    Latvia    Lebanon    Lesotho    Liberia    Libya    Liechtenstein    Lithuania    Luxembourg    Macau    Macedonia (FYROM)    Madagascar    Malawi    Malaysia    Maldives    Mali    Malta    Marshall Islands    Martinique    Mauritania    Mauritius    Mayotte    Mexico    Micronesia    Moldova    Monaco    Mongolia    Montenegro    Montserrat    Morocco    Mozambique    Myanmar (Burma)    Namibia    Nauru    Nepal    Netherlands    New Caledonia    New Zealand    Nicaragua    Niger    Nigeria    Niue    Norfolk Island    North Korea    Northern Mariana Islands    Norway    Oman    Pakistan    Palau    Palestine    Panama    Papua New Guinea    Paraguay    Peru    Philippines    Pitcairn Islands    Poland    Portugal    Puerto Rico    Qatar    Réunion    Romania    Russia    Rwanda    Samoa    San Marino    São Tomé & Príncipe    Saudi Arabia    Senegal    Serbia    Seychelles    Sierra Leone    Singapore    Sint Maarten    Slovakia    Slovenia    Solomon Islands    Somalia    South Africa    South Georgia & South Sandwich Islands    South Korea    South Sudan    Spain    Sri Lanka    St. Barthélemy    St. Helena    St. Kitts & Nevis    St. Lucia    St. Martin    St. Pierre & Miquelon    St. Vincent & Grenadines    Sudan    Suriname    Svalbard & Jan Mayen    Swaziland    Sweden    Switzerland    Syria    Taiwan    Tajikistan    Tanzania    Thailand    Timor-Leste    Togo    Tokelau    Tonga    Trinidad & Tobago    Tunisia    Turkey    Turkmenistan    Turks & Caicos Islands    Tuvalu    U.S. Outlying Islands    U.S. Virgin Islands    Uganda    Ukraine    United Arab Emirates    United Kingdom    United States    Uruguay    Uzbekistan    Vanuatu    Vatican City    Venezuela    Vietnam    Wallis & Futuna    Western Sahara    Yemen   Zambia    Zimbabwe
+
+[#5] Country/Region:Singapore
+
+[#6] Phone number:123456789
+
+[#7] Optional: Other helpful links (i.e. CV, LinkedIn, GitHub):linkedin.com/in/BillyLjm; github.com/BillyLjm
+
+Are the above details correct?
+
+[Y]es or [N]o: y
+
+Submitting your response...
+
+Response saved.
+
+[#1] Enter current status:
+[1] Student
+[2] Professional
+[3] Faculty or Postdoc
+
+Enter 1-3: 2
+
+Are the above details correct?
+
+[Y]es or [N]o: y
+
+Submitting your response...
+
+Your progress will be shared with a recruiter and you will be contacted if opportunities align with your skill set
+But the challenge is not over yet.
+Request now.
